@@ -1,0 +1,1 @@
+HTTP: Hypertext Transfer Protocol: is the responses web clients receive from an Internet server in answer to an HTTP request. These responses contain various elements which includes, the status code, response headers and optional HTTP body.

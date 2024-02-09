@@ -1,0 +1,35 @@
+How to install Git on Windows
+
+Step 1: Download the Windows Installer
+
+Visit the official Git website to download the latest version of the Git installer for Windows. The download should start automatically when you visit the page.
+
+Step 2: Run the Installer and Select Options
+
+Launch the downloaded installer and follow the installation wizard. Confirm that the app can make changes to your device by clicking Yes on the User Account Control dialog that appears.
+
+Once done making your selections, click Next.
+Step 3: Verify the installation with Git Bash
+
+To ensure that Git has been installed correctly, open Git Bash and type the following command:
+Press Enter, and the name of the version of Git you just installed should appear.
+
+
+How To Install Git on macOS
+
+Just as with the installation process for Windows, installing Git on a Mac is straightforward as well:
+
+    1. Download the macOS installer
+    2. Complete installation
+    3. Install via Homebrew (optional)
+    4. Verify installation through Terminal
+
+
+How To Install Git on Linux
+
+Installing Git on a Linux system looks a bit different than the other processes detailed here for Windows and macOS. To complete this process, you can expect to:
+
+    1. Install via package manager
+    2. Verify the installation
+
+	

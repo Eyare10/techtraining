@@ -1,0 +1,23 @@
+How to create a Github account and clon repositories to the local machine
+
+To Create a Github account:
+1. navigate to https://github.com
+2. click the "Sign up for free" button
+3. You'll need to enter some basic information like your name and email address
+4. To keep your GitHub account secure you should use a strong and unique password.
+
+To Clone a repository to the local machine:
+
+1. On GitHub.com, navigate to the main page of the repository.
+
+2. Above the list of files, click "Code".
+
+3. Copy the URL for the repository.
+
+4. Open Git Bash.
+
+5. Change the current working directory to the location where you want the cloned directory.
+
+6. Type "git clone", and then paste the URL you copied earlier.
+
+7. Press "Enter" to create your local clone
